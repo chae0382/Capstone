@@ -5,7 +5,8 @@ In addition, we have implemented a tour mode that you can freely explore the bui
 
 ## Demo
 #### Guide Mode
-![guide](https://user-images.githubusercontent.com/77235595/212014783-80eeae59-dee8-4024-ae20-e8acffa9fc0d.gif)
+![guide](https://user-images.githubusercontent.com/77235595/212015880-c246f7af-c47f-44d7-9dbb-366dc789e8f9.gif)
+Users can locate themselves by pressing Pause.
 
 #### Tour Mode
 ![tour](https://user-images.githubusercontent.com/77235595/212009219-074bb3ab-d903-4f22-bc19-c3ed39448a1a.gif)
