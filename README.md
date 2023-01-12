@@ -5,10 +5,10 @@ In addition, we have implemented a tour mode that you can freely explore the bui
 
 ## Demo
 ### Guide Mode
-![guide](https://user-images.githubusercontent.com/77235595/212016432-d7aad359-4f7b-4c32-a4bb-ea159945b195.gif)
+![guide](https://user-images.githubusercontent.com/77235595/212018285-f7c3ab70-aa37-421f-b551-200db1793a7c.gif)
 Users can locate themselves by pressing Pause.
 
 ### Tour Mode
-![tour](https://user-images.githubusercontent.com/77235595/212016454-ffcf073b-51c1-4f28-96cf-d90c32951ddb.gif)
+
 
 For more details, visit https://drive.google.com/drive/folders/12HxLWd9AJKv1Y-vR8uheiJ1NYjjyyBpC?usp=sharing
