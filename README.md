@@ -4,11 +4,11 @@ Then the path is visualized by navigating the optimal path in the 3D space, maki
 In addition, we have implemented a tour mode that you can freely explore the building.
 
 ## Demo
-#### Guide Mode
-![guide](https://user-images.githubusercontent.com/77235595/212015880-c246f7af-c47f-44d7-9dbb-366dc789e8f9.gif)
+### Guide Mode
+![guide](https://user-images.githubusercontent.com/77235595/212016432-d7aad359-4f7b-4c32-a4bb-ea159945b195.gif)
 Users can locate themselves by pressing Pause.
 
-#### Tour Mode
-![tour](https://user-images.githubusercontent.com/77235595/212009219-074bb3ab-d903-4f22-bc19-c3ed39448a1a.gif)
+### Tour Mode
+![tour](https://user-images.githubusercontent.com/77235595/212016454-ffcf073b-51c1-4f28-96cf-d90c32951ddb.gif)
 
 For more details, visit https://drive.google.com/drive/folders/12HxLWd9AJKv1Y-vR8uheiJ1NYjjyyBpC?usp=sharing
