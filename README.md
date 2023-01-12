@@ -9,6 +9,6 @@ In addition, we have implemented a tour mode that you can freely explore the bui
 Users can locate themselves by pressing Pause.
 
 ### Tour Mode
-![tour](https://user-images.githubusercontent.com/77235595/212038955-bf35497a-0dcd-48f6-8591-1674eac68df0.gif)  
+![tour](https://user-images.githubusercontent.com/77235595/212040868-d71896c7-88c4-45ef-b17a-259001720981.gif)   
 
 For more details, visit https://drive.google.com/drive/folders/12HxLWd9AJKv1Y-vR8uheiJ1NYjjyyBpC?usp=sharing
