@@ -5,7 +5,6 @@ In addition, we have implemented a tour mode that you can freely explore the bui
 
 ## Demo
 ### Guide Mode
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/77235595/212018488-632c3882-8fb5-423a-9356-50d5357317b8.gif)
 Users can locate themselves by pressing Pause.
 
 ### Tour Mode
