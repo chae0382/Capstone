@@ -6,4 +6,4 @@ In addition, we have implemented a tour mode that you can freely explore the bui
 ## Demo
 #### Guide Mode
 #### Tour Mode
-<img src='![tour](https://user-images.githubusercontent.com/77235595/212009219-074bb3ab-d903-4f22-bc19-c3ed39448a1a.gif)'>
+![tour](https://user-images.githubusercontent.com/77235595/212009219-074bb3ab-d903-4f22-bc19-c3ed39448a1a.gif)
